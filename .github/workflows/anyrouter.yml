@@ -16,7 +16,7 @@ jobs:
       continue-on-error: true
       timeout-minutes: 2
       env:
-        COOKIES: ""
+        COOKIES: "2222aaaa"
         TG_BOT_TOKEN: "xxxxxx"
         TG_CHAT_ID: "xxxxx"
       run: |
